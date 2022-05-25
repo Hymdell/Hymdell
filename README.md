@@ -19,6 +19,9 @@
   <a href="https://flutter.dev"> 
     <img align="center" alt="Cris-Flutter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   </a>
+  <a href="https://firebase.google.com/"> 
+    <img align="center" alt="Cris-Firebase" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+  </a>
   <a href="https://dev.mysql.com/doc/"> 
     <img align="center" alt="Cris-MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   </a>
