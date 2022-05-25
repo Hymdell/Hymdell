@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hymdell&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h3> Languages that i'm learning / have interest: </h3>
+<h3> Languages and tools that i'm learning / have interest: </h3>
 <div style="display: inline_block"><br>
   <a href="https://www.oracle.com/java/technologies/javase-documentation.html"> 
     <img align="center" alt="Cris-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
