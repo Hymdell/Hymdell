@@ -9,6 +9,7 @@
   <img align="center" alt="Cris-Dart" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
   <img align="center" alt="Cris-Flutter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Cris-MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Cris-GIT" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Cris-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Cris-PHP" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Cris-HTML" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
