@@ -5,7 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hymdell&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" href="https://www.linux.org/" alt="Cris-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <a href="https://linkedin.com/in/lkotlarenko"> 
+    <img align="center" alt="Cris-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> </a>
   <img align="center" alt="Cris-Dart" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
   <img align="center" alt="Cris-Flutter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Cris-MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
