@@ -2,6 +2,10 @@
   <h1 align="center"> Hi, i'm Cristopher </h1>
   <h3 align="center"> A student from Brazil </h3>
   
+- 🔭 Working on personal projects to learn and improve
+- 🌱 Studying Java,Dart/Flutter and SQL
+- 📫 How to reach me: cristopherpiussi@gmail.com
+  
 <div align="center">
   <a href="https://github.com/Hymdell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hymdell&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -57,7 +61,3 @@
   ![Snake animation](https://github.com/Hymdell/Hymdell/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-- 🔭 Working on personal projects to learn and improve
-- 🌱 Studying Flutter
-- 📫 How to reach me: cristopherpiussi@gmail.com
