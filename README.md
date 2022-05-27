@@ -49,7 +49,7 @@
     <img align="center" alt="Cris-Js" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </a>
    <a href="https://nodejs.org/en/docs/"> 
-    <img align="center" alt="Cris-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="Cris-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   </a>
   <a href="https://reactjs.org/"> 
     <img align="center" alt="Cris-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
