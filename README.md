@@ -50,6 +50,9 @@
   <a href="https://reactjs.org/"> 
     <img align="center" alt="Cris-React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   </a>
+  <a href="https://nodejs.org/en/docs/"> 
+    <img align="center" alt="Cris-NodeJS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  </a>
 </div>
 
 <h3> Connect with me: </h3>
