@@ -47,11 +47,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img align="center" alt="Cris-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </a>
-  <a href="https://reactjs.org/"> 
-    <img align="center" alt="Cris-React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  </a>
-  <a href="https://nodejs.org/en/docs/"> 
+   <a href="https://nodejs.org/en/docs/"> 
     <img align="center" alt="Cris-NodeJS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  </a>
+  <a href="https://reactjs.org/"> 
+    <img align="center" alt="Cris-React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   </a>
 </div>
 
