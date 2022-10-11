@@ -3,7 +3,7 @@
   <h3 align="center"> A student from Brazil </h3>
   
 - 🔭 Working on personal projects to learn and improve
-- 🌱 Studying Java,Web and SQL
+- 🌱 Studying Java, Web and SQL
 - 📫 How to reach me: cristopherprofissional@gmail.com
   
 <div align="center">
