@@ -1,9 +1,10 @@
 <header>
   <h1 align="center"> Hi, i'm Cristopher </h1>
-  <h3 align="center"> A student from Brazil </h3>
+  <h2 align="center"> Currently working as Trainee on Quero Quero VerdeCard </h2>
+  <h3 align="center"> Graduated Computer Technician from Brazil </h3>
   
 - 🔭 Working on personal projects to learn and improve
-- 🌱 Studying Java, Web and SQL
+- 🌱 Studying JavaScript, NestJS and React
 - 📫 How to reach me: cristopherprofissional@gmail.com
   
 <div align="center">
@@ -15,30 +16,6 @@
 <h3> Languages and tools that i'm learning / have interest: </h3>
   
 <div style="display: inline_block"><br>
-  <a href="https://www.oracle.com/java/technologies/javase-documentation.html"> 
-    <img align="center" alt="Cris-JAVA" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  </a>
-  <a href="https://dart.dev"> 
-    <img align="center" alt="Cris-Dart" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
-  </a>
-  <a href="https://flutter.dev"> 
-    <img align="center" alt="Cris-Flutter" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  </a>
-  <a href="https://firebase.google.com/"> 
-    <img align="center" alt="Cris-Firebase" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
-  </a>
-  <a href="https://dev.mysql.com/doc/"> 
-    <img align="center" alt="Cris-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  </a>
-  <a href="https://git-scm.com/"> 
-    <img align="center" alt="Cris-GIT" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
-  </a>
-  <a href="https://devdocs.io/c/">
-    <img align="center" alt="Cris-C" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  </a>
-  <a href="https://www.php.net/docs.php">
-    <img align="center" alt="Cris-PHP" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img align="center" alt="Cris-HTML" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   </a>
@@ -48,11 +25,41 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img align="center" alt="Cris-Js" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </a>
-   <a href="https://nodejs.org/en/docs/"> 
-    <img align="center" alt="Cris-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-  </a>
   <a href="https://reactjs.org/"> 
     <img align="center" alt="Cris-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  </a>
+  <a href="https://docs.nestjs.com"> 
+    <img align="center" alt="Cris-Nest" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg">
+  </a>
+  <a href="https://nodejs.org/en/docs/"> 
+    <img align="center" alt="Cris-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  </a>
+  <a href="https://jestjs.io/pt-BR/docs/getting-started"> 
+    <img align="center" alt="Cris-Jest" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  </a>
+  <a href="https://www.postgresql.org/docs/"> 
+    <img align="center" alt="Cris-Postgre" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
+  </a>
+  <a href="https://git-scm.com/"> 
+    <img align="center" alt="Cris-GIT" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+  </a>
+  <a href="https://www.oracle.com/java/technologies/javase-documentation.html"> 
+    <img align="center" alt="Cris-JAVA" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  </a>
+  <a href="https://www.php.net/docs.php">
+    <img align="center" alt="Cris-PHP" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  </a>
+  <a href="https://dev.mysql.com/doc/"> 
+    <img align="center" alt="Cris-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  </a>
+  <a href="https://dart.dev"> 
+    <img align="center" alt="Cris-Dart" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
+  </a>
+  <a href="https://flutter.dev"> 
+    <img align="center" alt="Cris-Flutter" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  </a>
+  <a href="https://firebase.google.com/"> 
+    <img align="center" alt="Cris-Firebase" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
   </a>
 </div>
 
