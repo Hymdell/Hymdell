@@ -34,6 +34,12 @@
   <a href="https://nodejs.org/en/docs/"> 
     <img align="center" alt="Cris-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   </a>
+  <a href="https://expressjs.com/pt-br/"> 
+    <img align="center" alt="Cris-Express" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+  </a>
+  <a href="https://sequelize.org"> 
+    <img align="center" alt="Cris-Sequelize" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg">
+  </a>
   <a href="https://jestjs.io/pt-BR/docs/getting-started"> 
     <img align="center" alt="Cris-Jest" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   </a>
