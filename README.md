@@ -9,8 +9,8 @@
   
 <div align="center">
   <a href="https://github.com/Hymdell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hymdell&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hymdell&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats-hymdell.vercel.app//api?username=Hymdell&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-hymdell.vercel.app//api/top-langs/?username=Hymdell&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
 <h3> Languages and tools that i'm learning / have interest: </h3>
