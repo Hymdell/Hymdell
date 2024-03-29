@@ -1,10 +1,10 @@
 <header>
   <h1 align="center"> Hi, i'm Cristopher </h1>
-  <h2 align="center"> Currently working as Trainee on Quero Quero VerdeCard </h2>
+  <h2 align="center"> Currently working as Junior Programmer Analyst on Quero Quero VerdeCard </h2>
   <h3 align="center"> Graduated Computer Technician from Brazil </h3>
   
-- 🔭 Working on personal projects to learn and improve
-- 🌱 Studying JavaScript, NestJS and React
+- 🔭 Improving while working and with college projects
+- 🌱 Using JavaScript, NestJS, Java and others at work!
 - 📫 How to reach me: cristopherprofissional@gmail.com
   
 <div align="center">
@@ -29,7 +29,7 @@
     <img align="center" alt="Cris-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   </a>
   <a href="https://docs.nestjs.com"> 
-    <img align="center" alt="Cris-Nest" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg">
+    <img align="center" alt="Cris-Nest" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   </a>
   <a href="https://nodejs.org/en/docs/"> 
     <img align="center" alt="Cris-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
