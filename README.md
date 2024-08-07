@@ -1,6 +1,6 @@
 <header>
   <h1 align="center">Oi, eu sou o Cristopher</h1>
-  <h2 align="center">Atualmente desemprego na busca de um novo emprego</h2>
+  <h2 align="center">Atualmente na busca de um novo emprego</h2>
 </header>
 
 - 🎓 Técnico de infórmatica formado no Senac RS.
