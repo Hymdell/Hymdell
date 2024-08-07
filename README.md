@@ -1,11 +1,11 @@
 <header>
   <h1 align="center">Oi, eu sou o Cristopher</h1>
-  <h2 align="center">Atualmente trabalho como Analista Programador Junior na Lojas Quero-Quero S.A.</h2>
+  <h2 align="center">Atualmente desemprego na busca de um novo emprego</h2>
 </header>
 
 - 🎓 Técnico de infórmatica formado no Senac RS.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 🔭 Melhorando enquanto trabalho e com projetos da faculdade.
+- 🔭 Melhorando enquanto estudo e com projetos da faculdade.
 - 🌱 Atualmente utilizando TypeScript, NestJS, Java e mais!
 
 <div align="center">
