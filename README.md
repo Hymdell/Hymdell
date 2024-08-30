@@ -23,19 +23,14 @@ Este projeto é um aplicativo que se comunica com um banco de dados Firebase par
 
 # Outros projetos e aulas
 ### Curso de TI Senac RS
-## [Aulas JAVA](https://github.com/Hymdell/Aulas_JAVA)
-## [Aulas Web](https://github.com/Hymdell/Aulas_Web_Senac)
-## [Aulas Flutter](https://github.com/Hymdell/Aulas_Flutter)
-## [Projeto Integrador](https://github.com/Hymdell/e-commerce_senac)
+## [Aulas JAVA](https://github.com/Hymdell/Aulas_JAVA), [Aulas Web](https://github.com/Hymdell/Aulas_Web_Senac), [Aulas Flutter](https://github.com/Hymdell/Aulas_Flutter), [Projeto Integrador](https://github.com/Hymdell/e-commerce_senac)
 
 ### Estágio Quero-Quero
 ## [Sistema para solicitar e gerenciar férias](https://github.com/Hymdell/Projeto-QQTech)
 Sistema que foi necessário fazer durante o periodo inicial do estágio na Quero-Quero, ele permite que um funcionario solicite férias e o gestor aprove ou não assim como também permite o gestor solicitar férias e visualizar quem está de férias e as solicitações de todos os funcionários que ele é responsável.
 
 ### Curso de Flutter na Udemy
-## [Rolagem de dado](https://github.com/Hymdell/dice_roll)
-## [Quiz sobre Flutter](https://github.com/Hymdell/quiz_app)
-## [Gerenciador de despesas](https://github.com/Hymdell/expense_tracker)
+## [Rolagem de dado](https://github.com/Hymdell/dice_roll), [Quiz sobre Flutter](https://github.com/Hymdell/quiz_app), [Gerenciador de despesas](https://github.com/Hymdell/expense_tracker)
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
