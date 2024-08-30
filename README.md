@@ -5,8 +5,8 @@
 
 - 🎓 Técnico de infórmatica formado no Senac RS.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 🔭 Melhorando enquanto estudo e com projetos da faculdade.
-- 🌱 Atualmente utilizando TypeScript, NestJS, Java e mais!
+- 🔭 Melhorando enquanto estudo e faço projetos pessoais e dos cursos.
+- 🌱 Atualmente utilizando JS, Flutter/Dart e mais!
 
 <div align="center">
   <a href="https://github.com/Hymdell">
@@ -15,9 +15,27 @@
   </a>
 </div>
 
-## Projeto em Destaque
+## Projetos em Destaque
+### [Aplicação de chamados](https://github.com/Hymdell/aplicacao_chamados)
+Este projeto é uma aplicação para desktop e mobile em que vendedores e técnicos de uma loja de informática possam registrar vendas, produtos e chamados fazendo assim com que tenham um bom controle de tudo. (Ainda está em fase inicial)
 ### [Projeto Efficient Water](https://github.com/Hymdell/Projeto-Efficient-Water)
 Este projeto é um aplicativo que se comunica com um banco de dados Firebase para enviar o estado de um botão (Ligado/Desligado) e ler o nível de umidade do solo a partir do banco de dados. Os dados de umidade são fornecidos por um ESP32 conectado a um sensor e um relé que controla uma válvula solenóide.
+
+# Outros projetos e aulas
+### Curso de TI Senac RS
+## [Aulas JAVA](https://github.com/Hymdell/Aulas_JAVA)
+## [Aulas Web](https://github.com/Hymdell/Aulas_Web_Senac)
+## [Aulas Flutter](https://github.com/Hymdell/Aulas_Flutter)
+## [Projeto Integrador](https://github.com/Hymdell/e-commerce_senac)
+
+### Estágio Quero-Quero
+## [Sistema para solicitar e gerenciar férias](https://github.com/Hymdell/Projeto-QQTech)
+Sistema que foi necessário fazer durante o periodo inicial do estágio na Quero-Quero, ele permite que um funcionario solicite férias e o gestor aprove ou não assim como também permite o gestor solicitar férias e visualizar quem está de férias e as solicitações de todos os funcionários que ele é responsável.
+
+### Curso de Flutter na Udemy
+## [Rolagem de dado](https://github.com/Hymdell/dice_roll)
+## [Quiz sobre Flutter](https://github.com/Hymdell/quiz_app)
+## [Gerenciador de despesas](https://github.com/Hymdell/expense_tracker)
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
