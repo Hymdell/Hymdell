@@ -16,8 +16,6 @@
 </div>
 
 # Projetos em Destaque
-### [Aplicação de chamados](https://github.com/Hymdell/aplicacao_chamados)
-Este projeto é uma aplicação para desktop e mobile em que vendedores e técnicos de uma loja de informática possam registrar vendas, produtos e chamados fazendo assim com que tenham um bom controle de tudo. (Ainda está em fase inicial)
 ### [Projeto Efficient Water](https://github.com/Hymdell/Projeto-Efficient-Water)
 Este projeto é um aplicativo que se comunica com um banco de dados Firebase para enviar o estado de um botão (Ligado/Desligado) e ler o nível de umidade do solo a partir do banco de dados. Os dados de umidade são fornecidos por um ESP32 conectado a um sensor e um relé que controla uma válvula solenóide.
 
