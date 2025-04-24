@@ -1,10 +1,10 @@
 <header>
   <h1 align="center">Oi, eu sou o Cristopher</h1>
-  <h2 align="center">Atualmente na busca de um novo emprego</h2>
+  <h2 align="center">Atualmente trabalhando como Técnico em informática</h2>
 </header>
 
 - 🎓 Técnico de infórmatica formado no Senac RS.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas, último período.
 - 🔭 Melhorando enquanto estudo e faço projetos pessoais e dos cursos.
 - 🌱 Atualmente utilizando JS, Flutter/Dart e mais!
 
