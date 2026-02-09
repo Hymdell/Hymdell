@@ -8,13 +8,6 @@
 - 🔭 Melhorando enquanto estudo e faço projetos pessoais e dos cursos.
 - 🌱 Atualmente utilizando JS, Flutter/Dart e mais!
 
-<div align="center">
-  <a href="https://github.com/Hymdell">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hymdell&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hymdell&layout=compact&langs_count=7&theme=highcontrast"/>
-  </a>
-</div>
-
 # Projetos em Destaque
 ### [Projeto Efficient Water](https://github.com/Hymdell/Projeto-Efficient-Water)
 Este projeto é um aplicativo que se comunica com um banco de dados Firebase para enviar o estado de um botão (Ligado/Desligado) e ler o nível de umidade do solo a partir do banco de dados. Os dados de umidade são fornecidos por um ESP32 conectado a um sensor e um relé que controla uma válvula solenóide.
