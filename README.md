@@ -23,8 +23,11 @@ Sistema que foi necessário fazer durante o periodo inicial do estágio na Quero
 ## Curso de Flutter na Udemy
 ### [Rolagem de dado](https://github.com/Hymdell/dice_roll), [Quiz sobre Flutter](https://github.com/Hymdell/quiz_app), [Gerenciador de despesas](https://github.com/Hymdell/expense_tracker)
 
-## Tecnologias e Ferramentas
+## Tecnologias e Ferramentas 
 <div style="display: inline_block"><br>
+  <a href="https://docs.godotengine.org/en/stable/#">
+    <img align="center" alt="Cris-HTML" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="Cris-HTML" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   </a>
