@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Técnico+em+Informática+%7C+Desenvolvedor;PHP+%7C+JavaScript+%7C+Vue.js;MariaDB+%7C+MySQL+%7C+Godot+%7C+GDScript)](https://readme-typing-svg.demolab.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hymdell&color=58A6FF&style=flat-square&label=Visitantes)](https://github.com/Hymdell)
-
 </div>
 
 ---
