@@ -97,12 +97,6 @@ Aplicativo mobile (Flutter) que se comunica com um banco de dados Firebase em te
 
 ## Estatísticas do GitHub
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hymdell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hymdell&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
