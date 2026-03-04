@@ -1,80 +1,124 @@
-<header>
-  <h1 align="center">Oi, eu sou o Cristopher</h1>
-  <h2 align="center">Atualmente trabalhando como Técnico em informática</h2>
-</header>
+<div align="center">
 
-- 🎓 Técnico de infórmatica formado no Senac RS.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas, último período.
-- 🔭 Melhorando enquanto estudo e faço projetos pessoais e dos cursos.
-- 🌱 Atualmente utilizando JS, Flutter/Dart e mais!
+# Cristopher Machado Piussi
 
-# Projetos em Destaque
-### [Projeto Efficient Water](https://github.com/Hymdell/Projeto-Efficient-Water)
-Este projeto é um aplicativo que se comunica com um banco de dados Firebase para enviar o estado de um botão (Ligado/Desligado) e ler o nível de umidade do solo a partir do banco de dados. Os dados de umidade são fornecidos por um ESP32 conectado a um sensor e um relé que controla uma válvula solenóide.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Técnico+em+Informática+%7C+Desenvolvedor;PHP+%7C+JavaScript+%7C+Vue.js;MariaDB+%7C+MySQL+%7C+Godot+%7C+GDScript)](https://readme-typing-svg.demolab.com)
 
-# Outros projetos e aulas
-## Curso de TI Senac RS
-### [Aulas JAVA](https://github.com/Hymdell/Aulas_JAVA), [Aulas Web](https://github.com/Hymdell/Aulas_Web_Senac), [Aulas Flutter](https://github.com/Hymdell/Aulas_Flutter), [Projeto Integrador](https://github.com/Hymdell/e-commerce_senac)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hymdell&color=58A6FF&style=flat-square&label=Visitantes)](https://github.com/Hymdell)
 
-## Estágio Quero-Quero
-### [Sistema para solicitar e gerenciar férias](https://github.com/Hymdell/Projeto-QQTech)
-Sistema que foi necessário fazer durante o periodo inicial do estágio na Quero-Quero, ele permite que um funcionario solicite férias e o gestor aprove ou não assim como também permite o gestor solicitar férias e visualizar quem está de férias e as solicitações de todos os funcionários que ele é responsável.
-
-## Curso de Flutter na Udemy
-### [Rolagem de dado](https://github.com/Hymdell/dice_roll), [Quiz sobre Flutter](https://github.com/Hymdell/quiz_app), [Gerenciador de despesas](https://github.com/Hymdell/expense_tracker)
-
-## Tecnologias e Ferramentas 
-<div style="display: inline_block"><br>
-  <a href="https://docs.godotengine.org/en/stable/#">
-    <img align="center" alt="Cris-HTML" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img align="center" alt="Cris-HTML" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img align="center" alt="Cris-CSS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="Cris-Js" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  </a>
-  <a href="https://reactjs.org/">
-    <img align="center" alt="Cris-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  </a>
-  <a href="https://docs.nestjs.com">
-    <img align="center" alt="Cris-Nest" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
-  </a>
-  <a href="https://nodejs.org/en/docs/">
-    <img align="center" alt="Cris-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-  </a>
-  <a href="https://www.postgresql.org/docs/">
-    <img align="center" alt="Cris-Postgre" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
-  </a>
-  <a href="https://git-scm.com/">
-    <img align="center" alt="Cris-GIT" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
-  </a>
-  <a href="https://www.oracle.com/java/technologies/javase-documentation.html">
-    <img align="center" alt="Cris-JAVA" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  </a>
-  <a href="https://dart.dev">
-    <img align="center" alt="Cris-Dart" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
-  </a>
-  <a href="https://flutter.dev">
-    <img align="center" alt="Cris-Flutter" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  </a>
-  <a href="https://firebase.google.com/">
-    <img align="center" alt="Cris-Firebase" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
-  </a>
 </div>
 
-## Conecte-se Comigo
-<div>
-  <a href="https://www.instagram.com/hymdell/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:cristopherprofissional@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/cristopher-machado-piussi-094755237/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+---
+
+## Sobre mim
+
+- Técnico em Informática formado pelo **Senac RS**
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **Gran Faculdade**
+- Atuo na **Projeção Informática** realizando manutenção em computadores e notebooks, além do desenvolvimento e manutenção de sistemas (front-end, back-end e banco de dados)
+- Trabalho atualmente com: **PHP, JavaScript, HTML, CSS, Vue.js, Tailwind, Bootstrap, MariaDB/MySQL e GDScript/Godot**
+
+---
+
+## Projetos em Destaque
+
+### [FelpoJam](https://github.com/Hymdell/Felpojam)
+Jogo desenvolvido durante a [FelpoJam](https://felpojam.com), uma game jam em que participei junto de mais 4 pessoas reunidas na formação de equipes da própria jam.
+
+`GDScript` `Godot`
+
+### [Efficient Water](https://github.com/Hymdell/Projeto-Efficient-Water)
+Aplicativo mobile (Flutter) que se comunica com um banco de dados Firebase em tempo real para controlar uma válvula solenóide via ESP32. O app envia comandos de Liga/Desliga e lê dados de umidade do solo fornecidos por um sensor conectado ao microcontrolador.
+
+`Flutter` `Dart` `Firebase` `ESP32`
+
+---
+
+## Outros Projetos
+
+<details>
+<summary><b>Curso de TI — Senac RS</b></summary>
+
+| Projeto | Descrição |
+|--------|-----------|
+| [Aulas JAVA](https://github.com/Hymdell/Aulas_JAVA) | Exercícios e projetos da disciplina de Java |
+| [Aulas Web](https://github.com/Hymdell/Aulas_Web_Senac) | HTML, CSS e JavaScript aplicados |
+| [Aulas Flutter](https://github.com/Hymdell/Aulas_Flutter) | Introdução ao desenvolvimento mobile com Flutter |
+| [Projeto Integrador — E-commerce](https://github.com/Hymdell/e-commerce_senac) | Sistema de e-commerce desenvolvido como projeto final do curso |
+
+</details>
+
+<details>
+<summary><b>Estágio — Quero-Quero</b></summary>
+
+| Projeto | Descrição |
+|--------|-----------|
+| [Sistema de Gerenciamento de Férias](https://github.com/Hymdell/Projeto-QQTech) | Sistema web que permite funcionários solicitarem férias e gestores aprovarem ou rejeitarem as solicitações, além de gerenciar a equipe |
+
+</details>
+
+<details>
+<summary><b>Curso Flutter — Udemy</b></summary>
+
+| Projeto | Descrição |
+|--------|-----------|
+| [Rolagem de Dado](https://github.com/Hymdell/dice_roll) | App simples de rolagem de dados |
+| [Quiz sobre Flutter](https://github.com/Hymdell/quiz_app) | Quiz interativo desenvolvido durante o curso |
+| [Gerenciador de Despesas](https://github.com/Hymdell/expense_tracker) | App para controle de gastos pessoais |
+
+</details>
+
+---
+
+## Tecnologias e Ferramentas
+
+<div align="center">
+
+**Frontend**
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+**Backend & Banco de Dados**
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+
+**Ferramentas & Game Dev**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://docs.godotengine.org/en/stable/)
+
+</div>
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hymdell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hymdell&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hymdell&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://github.com/Hymdell)
+
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-machado-piussi-094755237/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristopherprofissional@gmail.com)
+
 </div>
