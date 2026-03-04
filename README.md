@@ -13,7 +13,7 @@
 ## Sobre mim
 
 - Técnico em Informática formado pelo **Senac RS**
-- Bacharel em **Análise e Desenvolvimento de Sistemas** pela **Gran Faculdade**
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **Gran Faculdade**
 - Atuo na **Projeção Informática** realizando manutenção em computadores e notebooks, além do desenvolvimento e manutenção de sistemas (front-end, back-end e banco de dados)
 - Trabalho atualmente com: **PHP, JavaScript, HTML, CSS, Vue.js, Tailwind, Bootstrap, MariaDB/MySQL e GDScript/Godot**
 
@@ -101,8 +101,8 @@ Aplicativo mobile (Flutter) que se comunica com um banco de dados Firebase em te
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hymdell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hymdell&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hymdell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hymdell&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
