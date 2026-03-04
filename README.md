@@ -42,6 +42,9 @@ Aplicativo mobile (Flutter) que se comunica com um banco de dados Firebase em te
 | [Aulas Web](https://github.com/Hymdell/Aulas_Web_Senac) | HTML, CSS e JavaScript aplicados |
 | [Aulas Flutter](https://github.com/Hymdell/Aulas_Flutter) | Introdução ao desenvolvimento mobile com Flutter |
 | [Projeto Integrador — E-commerce](https://github.com/Hymdell/e-commerce_senac) | Sistema de e-commerce desenvolvido como projeto final do curso |
+| [Reservas SENAC 1.0](https://github.com/marianobitelo/Reservas_SENAC_1.0) | Sistema web para reserva de salas e materiais, desenvolvido em equipe |
+| [Sistema de Chamados (Beta)](https://github.com/marianobitelo/ChamadoSENAC05) | Versão beta do sistema de registro de chamados técnicos do SENAC |
+| [Projeto Integrador — Chamados](https://github.com/marianobitelo/ProjetoINTEGRADOR) | Sistema desktop de registro de chamados técnicos com autenticação e gerenciamento de técnicos |
 
 </details>
 
