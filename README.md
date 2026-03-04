@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Cristopher 👋
+# Cristopher Machado Piussi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Técnico+em+Informática+%7C+Dev+em+formação;Análise+e+Desenvolvimento+de+Sistemas;Flutter+%7C+JavaScript+%7C+Node.js+%7C+React;Sempre+aprendendo+e+evoluindo+🚀)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Técnico+em+Informática+%7C+Desenvolvedor;PHP+%7C+JavaScript+%7C+Vue.js;MariaDB+%7C+MySQL+%7C+Godot+%7C+GDScript)](https://readme-typing-svg.demolab.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Hymdell&color=58A6FF&style=flat-square&label=Visitantes)](https://github.com/Hymdell)
 
@@ -10,30 +10,33 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Técnico em Informática formado pelo **Senac RS**
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** (último período)
-- 💼 Atuando como **Técnico em Informática** na área profissional
-- 🔭 Desenvolvendo projetos pessoais e acadêmicos para aprimorar minhas habilidades
-- 🌱 Atualmente trabalhando com **JavaScript, Flutter/Dart, React, NestJS e Node.js**
-- ⚡ Entusiasta de IoT — já integrei **ESP32 + Firebase** em projetos reais
+- Técnico em Informática formado pelo **Senac RS**
+- Bacharel em **Análise e Desenvolvimento de Sistemas** pela **Gran Faculdade**
+- Atuo na **Projeção Informática** realizando manutenção em computadores e notebooks, além do desenvolvimento e manutenção de sistemas (front-end, back-end e banco de dados)
+- Trabalho atualmente com: **PHP, JavaScript, HTML, CSS, Vue.js, Tailwind, Bootstrap, MariaDB/MySQL e GDScript/Godot**
 
 ---
 
-## 🚀 Projeto em Destaque
+## Projetos em Destaque
 
-### 💧 [Efficient Water](https://github.com/Hymdell/Projeto-Efficient-Water)
-> Aplicativo mobile (Flutter) que se comunica com um banco de dados Firebase em tempo real para controlar uma válvula solenóide via ESP32. O app envia comandos de Liga/Desliga e lê dados de umidade do solo fornecidos por um sensor conectado ao microcontrolador.
+### [FelpoJam](https://github.com/Hymdell/Felpojam)
+Jogo desenvolvido durante a [FelpoJam](https://felpojam.com), uma game jam em que participei junto de mais 4 pessoas reunidas na formação de equipes da própria jam.
 
-`Flutter` `Dart` `Firebase` `ESP32` `IoT`
+`GDScript` `Godot`
+
+### [Efficient Water](https://github.com/Hymdell/Projeto-Efficient-Water)
+Aplicativo mobile (Flutter) que se comunica com um banco de dados Firebase em tempo real para controlar uma válvula solenóide via ESP32. O app envia comandos de Liga/Desliga e lê dados de umidade do solo fornecidos por um sensor conectado ao microcontrolador.
+
+`Flutter` `Dart` `Firebase` `ESP32`
 
 ---
 
-## 📂 Outros Projetos
+## Outros Projetos
 
 <details>
-<summary><b>🎓 Curso de TI — Senac RS</b></summary>
+<summary><b>Curso de TI — Senac RS</b></summary>
 
 | Projeto | Descrição |
 |--------|-----------|
@@ -45,16 +48,16 @@
 </details>
 
 <details>
-<summary><b>🏢 Estágio — Quero-Quero</b></summary>
+<summary><b>Estágio — Quero-Quero</b></summary>
 
 | Projeto | Descrição |
 |--------|-----------|
-| [Sistema de Gerenciamento de Férias](https://github.com/Hymdell/Projeto-QQTech) | Sistema web que permite funcionários solicitarem férias e gestores aprovarem/rejeitarem as solicitações, além de gerenciar a equipe |
+| [Sistema de Gerenciamento de Férias](https://github.com/Hymdell/Projeto-QQTech) | Sistema web que permite funcionários solicitarem férias e gestores aprovarem ou rejeitarem as solicitações, além de gerenciar a equipe |
 
 </details>
 
 <details>
-<summary><b>📱 Curso Flutter — Udemy</b></summary>
+<summary><b>Curso Flutter — Udemy</b></summary>
 
 | Projeto | Descrição |
 |--------|-----------|
@@ -66,28 +69,26 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
 
-**Frontend & Mobile**
+**Frontend**
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 **Backend & Banco de Dados**
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/docs/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://docs.nestjs.com)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/technologies/javase-documentation.html)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
-**Ferramentas**
+**Ferramentas & Game Dev**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://docs.godotengine.org/en/stable/)
@@ -96,7 +97,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -113,12 +114,11 @@
 
 ---
 
-## 🌐 Conecte-se Comigo
+## Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-machado-piussi-094755237/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristopherprofissional@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hymdell/)
 
 </div>
